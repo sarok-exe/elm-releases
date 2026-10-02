@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "sha256": "88a3838586e1dd5aaae46de27b96bf9a671cc282ecb40b9ba7eb9fd729ecbdf4",
+  "sizeBytes": 9225089,
+  "notes": "Offline downloads fixed + GitHub updates.\n\n- A video that stopped downloading mid-way is no longer treated as a finished download. Completeness is now proven by a recorded byte count, so a truncated file is re-fetched instead of failing at playback.\n- Downloaded lessons now open from the Downloads screen with no connection at all.\n- App updates now come from GitHub instead of the server, so a new version can be installed from the phone with no cable.\n\nArabic notes:\n- إصلاح الفيديوهات التي لا تعمل بدون واي فاي.\n- إصلاح تحميل التحديثات من GitHub بدون كيبل.",
+  "publishedAt": "2026-10-02T13:23:38Z"
+}
