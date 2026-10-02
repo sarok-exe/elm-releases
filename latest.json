@@ -1,8 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "sha256": "66abcd812b2f64e52126869ae66a75d9d0b123c9908547c17c39f2160390113c",
-  "sizeBytes": 9206877,
-  "notes": "",
-  "publishedAt": "2026-10-02T07:40:00Z"
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "sha256": "9e0633b21eba4f0524ec28e07c11f30b507d04aa5710f29101275322da252add",
+  "sizeBytes": 9225089,
+  "notes": "تصميم جديد خفيف بألوان وحركات مستوحاة من streak، وربط دروس الفيديو بملفات PDF، ونشر بيانات الربط في قاعدة البيانات"
 }
