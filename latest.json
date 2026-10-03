@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "sha256": "88a3838586e1dd5aaae46de27b96bf9a671cc282ecb40b9ba7eb9fd729ecbdf4",
-  "sizeBytes": 9225089,
-  "notes": "Offline downloads fixed + GitHub updates.\n\n- A video that stopped downloading mid-way is no longer treated as a finished download. Completeness is now proven by a recorded byte count, so a truncated file is re-fetched instead of failing at playback.\n- Downloaded lessons now open from the Downloads screen with no connection at all.\n- App updates now come from GitHub instead of the server, so a new version can be installed from the phone with no cable.\n\nArabic notes:\n- إصلاح الفيديوهات التي لا تعمل بدون واي فاي.\n- إصلاح تحميل التحديثات من GitHub بدون كيبل.",
-  "publishedAt": "2026-10-02T13:23:38Z"
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "sha256": "22e512b428cbc198683714aa3daefb46165039623d5f03f38c12df5d1bc2ebe1",
+  "sizeBytes": 9241473,
+  "notes": "Bilingual Arabic/French lesson titles and exercises.\n\n- Every lesson now carries a separate Arabic and a French title and description, cleaned of channel spam, emoji and stray counters. The app shows whichever one matches the language track you are reading in.\n- A lesson in Arabic and the same lesson in French are now the same entry with both titles, instead of two rows with slightly different wording.\n- Exercises, summaries and answer keys are labelled, so you can tell at a glance which is which.\n- Each lesson groups its own exercises underneath it. Physics and SVT sheets with no lesson to belong to stay in the library as before.\n- Mathematics content has been removed from the app.\n\nملاحظات بالعربية:\n- لكل درس الآن عنوان ووصف بالعربية وآخر بالفرنسية، بعد تنظيف النص من إعلانات القناة والرموز التعبيرية والأرقام الزائدة.\n- التطبيق يختار تلقائياً العنوان المناسب للغة التي تقرأ بها.\n- التمارين والملخصات وأجوبة التصحيح موسومة بوضوح ليسهل تمييزها.\n- كل درس يجمع تمارينه تحته بدل ظهورها كعناصر منفصلة.\n- تم حذف مادة الرياضيات من التطبيق.",
+  "publishedAt": "2026-10-03T12:28:35Z"
 }
