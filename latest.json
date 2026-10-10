@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "sha256": "22e512b428cbc198683714aa3daefb46165039623d5f03f38c12df5d1bc2ebe1",
-  "sizeBytes": 9241473,
-  "notes": "Bilingual Arabic/French lesson titles and exercises.\n\n- Every lesson now carries a separate Arabic and a French title and description, cleaned of channel spam, emoji and stray counters. The app shows whichever one matches the language track you are reading in.\n- A lesson in Arabic and the same lesson in French are now the same entry with both titles, instead of two rows with slightly different wording.\n- Exercises, summaries and answer keys are labelled, so you can tell at a glance which is which.\n- Each lesson groups its own exercises underneath it. Physics and SVT sheets with no lesson to belong to stay in the library as before.\n- Mathematics content has been removed from the app.\n\nملاحظات بالعربية:\n- لكل درس الآن عنوان ووصف بالعربية وآخر بالفرنسية، بعد تنظيف النص من إعلانات القناة والرموز التعبيرية والأرقام الزائدة.\n- التطبيق يختار تلقائياً العنوان المناسب للغة التي تقرأ بها.\n- التمارين والملخصات وأجوبة التصحيح موسومة بوضوح ليسهل تمييزها.\n- كل درس يجمع تمارينه تحته بدل ظهورها كعناصر منفصلة.\n- تم حذف مادة الرياضيات من التطبيق.",
-  "publishedAt": "2026-10-03T12:28:35Z"
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "sha256": "dcefc34f022d0d6ac66476a5270dc6b1e6085c75630049601fda9652c3d54356",
+  "sizeBytes": 9575934,
+  "notes": "زر مشاركة الدرس: شارك رابط أي درس مع صديق، ويفتح الرابط الدرس مباشرة في التطبيق.",
+  "publishedAt": "2026-10-10T13:21:12.182397Z"
 }
