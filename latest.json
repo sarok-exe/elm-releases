@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.10.0",
-  "sha256": "e104bc12d0b9ce1f5243eae61b86dfa2db7845ac8b411ebe58090a20d589e794",
-  "sizeBytes": 9046890,
-  "notes": "تحديث 0.10.0 — دعم اللغة الفرنسية والإنجليزية مع اختيار لغة الواجهة.",
-  "publishedAt": "2026-10-12T20:05:49.493424Z"
+  "versionCode": 13,
+  "versionName": "0.10.1",
+  "sha256": "d14e1276b8241a09cf5ef869ce5b73f7681adb2680a8ba308d1ce38a0b8bcb4a",
+  "sizeBytes": 9063658,
+  "notes": "تحديث 0.10.1 — صفحتان لمادة الرياضيات: الأستاذ أدغور والأستاذ نوري.",
+  "publishedAt": "2026-10-12T20:47:47.994461Z"
 }
