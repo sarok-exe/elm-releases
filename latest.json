@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.12.1",
-  "sha256": "2a50e8190cf5c6b90dbabbee67c028c325c2edb0317844a0ed79c12a6eb9edaf",
-  "sizeBytes": 9692694,
-  "notes": "شاشة المساعد: أيقونات موحّدة، خط متناسق، ظهور تدريجي كلمة بكلمة. دروس 2BAC من moutamadris.ma.",
-  "publishedAt": "2026-10-22T13:28:27.398371Z"
+  "versionCode": 22,
+  "versionName": "0.12.2",
+  "sha256": "15acf1f7f051fbd0d5b749ecf75fb0bb3ed95eec4143c145ea6c20ba05746097",
+  "sizeBytes": 9683550,
+  "notes": "Elm 0.12.2 (versionCode 22)",
+  "publishedAt": "2026-10-23T12:12:17.051545Z"
 }
