@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.12.3",
-  "sha256": "42ecd2d6d282889774b29481fafb2e00d635dfe4e775f233c7f19eabdebde8d7",
+  "versionCode": 25,
+  "versionName": "0.12.5",
+  "sha256": "be5cd0cc48f2adbfaa97117ed55c0d9d0e9755473717320f781603a500d47730",
   "sizeBytes": 9715638,
-  "notes": "Elm 0.12.3 (versionCode 23)",
-  "publishedAt": "2026-10-23T14:04:17.694451Z"
+  "notes": "Elm 0.12.5 (versionCode 25)",
+  "publishedAt": "2026-10-23T15:59:36.269432Z"
 }
